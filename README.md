@@ -285,6 +285,7 @@ Signed,
 - Anthony Maki, @4cm4k1 (Software Engineer)
 - Esteban Manchado Velázquez, @emanchado (RoboHydra)
 - Yotam Mann, @tambien (Tone.js)
+- Pierre Marijon, @Natir (Postdoc, Saarland University)
 - Dave Marin, @davidmarin (mrjob, doloop)
 - Erik Marks, @rekmarks (Software Developer)
 - Mano Marks, @ManoMarks
